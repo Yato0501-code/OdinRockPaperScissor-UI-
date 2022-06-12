@@ -1,0 +1,37 @@
+body{
+    background-color: #3A3845;
+    color: #C69B7B;
+}
+p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: #C69B7B;
+}
+
+.flex-container1{
+    display: flex;
+    justify-content: space-between;
+    padding: 12em;
+}
+
+.buttons{
+    background-color: #F7CCAC;
+    text-align: center;
+    font-size: 24px;
+    border-radius: 4px;
+}
+
+.flex-container2{
+    display: flex;
+    justify-content: space-around;
+    border:1px solid black;
+}
+
+.flex-container3{
+    display: flex;
+    justify-content: space-around;
+    border:1px solid black;
+    margin-top: 2px;
+}
